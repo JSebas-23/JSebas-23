@@ -1,4 +1,4 @@
-# ¡Hola! Soy Johan Sebastian Talero Ovalle 👋
+# ¡Hola! Soy Johan Sebastian Talero Ovalle 
 
 ### Tecnólogo en Análisis y Desarrollo de Software | Bogotá, Colombia 🇨🇴
 
