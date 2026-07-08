@@ -40,11 +40,12 @@ Desarrollador Full-Stack recién egresado del SENA con experiencia práctica en 
 - 📂 [Ver repositorio](https://github.com/nicolaspreciadodev/gosportpy)
 
 ---
+## 📊 Contribuciones destacadas
 
-## 📊 Estadísticas GitHub
+- 🔀 Contribuidor activo en [gosportpy](https://github.com/nicolaspreciadodev/gosportpy) — proyecto principal de equipo Scrum
+- ☕ Versión Java/Spring Boot: [gosportjava](https://github.com/nicolaspreciado585-dot/gosportjava)
+- 🐘 Versión PHP/Laravel: [gosport-laravel](https://github.com/JSebas-23/gosport-laravel)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JSebas-23&show_icons=true&theme=tokyonight&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSebas-23&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
